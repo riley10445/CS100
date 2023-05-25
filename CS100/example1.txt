@@ -1,0 +1,3 @@
+line.
+Delete the word from this line.
+This is a second line
